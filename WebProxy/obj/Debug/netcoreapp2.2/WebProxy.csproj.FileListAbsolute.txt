@@ -1,0 +1,14 @@
+C:\Users\luxuda\workspace\WebProxy\WebProxy\bin\Debug\netcoreapp2.2\WebProxy.deps.json
+C:\Users\luxuda\workspace\WebProxy\WebProxy\bin\Debug\netcoreapp2.2\WebProxy.runtimeconfig.json
+C:\Users\luxuda\workspace\WebProxy\WebProxy\bin\Debug\netcoreapp2.2\WebProxy.runtimeconfig.dev.json
+C:\Users\luxuda\workspace\WebProxy\WebProxy\bin\Debug\netcoreapp2.2\WebProxy.dll
+C:\Users\luxuda\workspace\WebProxy\WebProxy\bin\Debug\netcoreapp2.2\WebProxy.pdb
+C:\Users\luxuda\workspace\WebProxy\WebProxy\obj\Debug\netcoreapp2.2\WebProxy.csprojAssemblyReference.cache
+C:\Users\luxuda\workspace\WebProxy\WebProxy\obj\Debug\netcoreapp2.2\WebProxy.csproj.CoreCompileInputs.cache
+C:\Users\luxuda\workspace\WebProxy\WebProxy\obj\Debug\netcoreapp2.2\WebProxy.RazorAssemblyInfo.cache
+C:\Users\luxuda\workspace\WebProxy\WebProxy\obj\Debug\netcoreapp2.2\WebProxy.RazorAssemblyInfo.cs
+C:\Users\luxuda\workspace\WebProxy\WebProxy\obj\Debug\netcoreapp2.2\WebProxy.AssemblyInfoInputs.cache
+C:\Users\luxuda\workspace\WebProxy\WebProxy\obj\Debug\netcoreapp2.2\WebProxy.AssemblyInfo.cs
+C:\Users\luxuda\workspace\WebProxy\WebProxy\obj\Debug\netcoreapp2.2\WebProxy.RazorTargetAssemblyInfo.cache
+C:\Users\luxuda\workspace\WebProxy\WebProxy\obj\Debug\netcoreapp2.2\WebProxy.dll
+C:\Users\luxuda\workspace\WebProxy\WebProxy\obj\Debug\netcoreapp2.2\WebProxy.pdb
